@@ -131,6 +131,7 @@ td {
   }
 
   .container {
+    margin-top: 50px;
     padding: 45px;
     border-radius: 15px;
   }
